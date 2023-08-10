@@ -1,0 +1,62 @@
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\bin\Debug\FileManageSystem.exe.config
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\bin\Debug\FileManageSystem.exe
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\bin\Debug\FileManageSystem.pdb
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\bin\Debug\MaterialDesignColors.dll
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.csprojResolveAssemblyReference.cache
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\App.g.cs
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem_MarkupCompile.cache
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem_MarkupCompile.lref
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\App.baml
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\MainWindow.baml
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.g.resources
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.Properties.Resources.resources
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.csproj.GenerateResource.Cache
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.exe
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\FileManageSystem.pdb
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\EditWindow.g.cs
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\DetailWindow.g.cs
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\EditWindow.baml
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\DetailWindow.baml
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\RenameControl.g.cs
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\RenameControl.baml
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\AttributeWindow.g.cs
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\AttributeWindow.baml
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\FormatControl.g.cs
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Debug\FormatControl.baml
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\bin\Debug\FileManageSystem.exe.config
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\bin\Debug\FileManageSystem.exe
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\bin\Debug\FileManageSystem.pdb
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\bin\Debug\MaterialDesignColors.dll
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\FileManageSystem.csproj.AssemblyReference.cache
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\AttributeWindow.g.cs
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\EditWindow.g.cs
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\DetailWindow.g.cs
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\MainWindow.g.cs
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\FormatControl.g.cs
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\RenameControl.g.cs
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\App.g.cs
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\FileManageSystem_MarkupCompile.cache
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\FileManageSystem_MarkupCompile.lref
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\App.baml
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\AttributeWindow.baml
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\EditWindow.baml
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\DetailWindow.baml
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\MainWindow.baml
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\FormatControl.baml
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\RenameControl.baml
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\FileManageSystem.g.resources
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\FileManageSystem.Properties.Resources.resources
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\FileManageSystem.csproj.GenerateResource.cache
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\FileManageSystem.csproj.CoreCompileInputs.cache
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\FileManageSystem.csproj.CopyComplete
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\FileManageSystem.exe
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Debug\FileManageSystem.pdb

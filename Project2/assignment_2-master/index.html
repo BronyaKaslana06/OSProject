@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>Memory</title>
+    <link href="https://cdn.bootcss.com/bootstrap/4.1.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="text.css" type="text/css" rel="stylesheet" />
+    <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.slim.min.js"></script>
+    <script src="https://cdn.bootcss.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+    <script src="main.js" type="application/javascript"></script>   
+</head>
+<body>
+    <div class="demo">
+        <button class="button blue" id="first" onclick="setFirstFit()">首次适应算法</button>
+        <button class="button blue" id="best" onclick="setBestFit()">最佳适应算法</button>
+        <button class="button white biggrounded" id="reset" onclick="resetFit()">重置分配方式</button>
+    </div>
+
+    <div class="demo">
+        <input type="text" value="" id="textId">
+		<div class="button orange small">KB</div> 
+        <button class="button blue" onclick="alloc()">分配</button> 
+    </div>
+    <div class="table-a">
+        <table width="1024" height="50" border="0" cellspacing="0" cellpadding="0">
+            <tr id="memShow">
+                <td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td>
+                <td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td>
+                <td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td>
+                <td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td>
+                <td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td>
+                <td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td>
+                <td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td>
+                <td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td>
+            </tr>
+            <!--640kb分成64个10kb的表格来表示-->
+        </table>
+    </div>
+    <script>
+        function alloc(){
+           allocate(Number(document.getElementById("textId").value));
+        }
+    </script>
+    <div class="demo">
+        <input type="text" value="" id="free">
+        <div class="button orange small">位置</div> 
+        <button class="button blue" onclick="freeMem()">Free!</button> 
+    </div>
+    <script>
+        function freeMem(){
+            setFree(Number(document.getElementById("free").value));
+        }
+    </script>
+    <script type="application/javascript">
+        $(document).ready(function () {
+            initList();
+        });
+    </script>
+</body>
+

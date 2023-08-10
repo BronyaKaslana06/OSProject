@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>内存管理</title>
+    <link href="https://cdn.bootcss.com/bootstrap/4.1.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="style.css" type="text/css" rel="stylesheet" />
+    <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.slim.min.js"></script>
+    <script src="https://cdn.bootcss.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+    <script src="allocAlogorithm.js" type="application/javascript"></script>   
+</head>
+<body>
+    <div class="demo" text-align="center";>
+        <h1>内存管理之动态分区分配方式模拟</h1>
+    </div>
+    <div class="demo">
+        <span class="chooseAlo">分配算法选择:</span>
+        <button class="button green" id="first" onclick="chooseFirstFit()">首次适应算法</button>
+        <button class="button green" id="best" onclick="chooseBestFit()">最佳适应算法</button>
+        <button class="button blue biggrounded" id="reset" onclick="resetMethod()">重置分配方式</button>
+    </div>
+
+    <div class="demo">
+        <span>分配空间大小:</span>
+        <input type="text" value="" id="textId">
+		<span id="KB">单位:KB</span> 
+        <button class="button green" onclick="alloc()">分配</button> 
+        <div>内存空间总大小:640kb,地址编号为0-640</div>
+    </div>
+    <div class="tableAlloc">
+        <table width="1024" height="60" border="0" cellspacing="0" cellpadding="0">
+            <tr id="memShow">
+                <td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td>
+                <td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td>
+                <td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td>
+                <td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td>
+                <td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td>
+                <td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td>
+                <td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td>
+                <td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td><td width="16"> </td>
+            </tr>
+            <!--640kb分成64个10kb的表格来表示-->
+        </table>
+    </div>
+    <script>
+        function alloc(){
+            num=Number(document.getElementById("textId").value);
+            if(num%10!==0){
+                alert("请输入10的倍数");
+                return;
+            }
+            allocateBlock(num);
+        }
+    </script>
+    <div class="demo">
+        <span id="pos">释放空间位置:</span> 
+        <input type="text" value="" id="free">
+        <span id="KB">单位:KB</span> 
+        <button class="button green" onclick="freeMem()">释放</button> 
+    </div>
+    <div class="demo" id="introBlock">
+        <div>当前操作:</div>
+        <span id="intro"></span>
+    </div>
+    <div class="demo">
+        <h2>说明：</h2>
+        <div>1.内存空间总大小为640kb</div>
+        <div>2.请在输入分配空间大小前,先选择分配方式,若不选择相应分配方式就申请空间网页会给出错误提示</div>
+        <div>3.申请内存空间大小必须为10的倍数,否则会给出错误提示</div>
+        <div>4.申请内存空间时尽量不要输入的数字太小,否则可视化的效果会不好</div>
+        <div>5.在可视化条中,被占用的部分用黄色表示并标出首末地址,未被占用的部分用淡蓝色表示</div>
+        <div>6.释放空间时,请在释放空间位置中输入待释放内存空间的首地址,否则会给出错误提示</div>
+        <div>7.点击“重置分配方式”可以重置页面</div>
+        <div>感谢老师和助教的支持和理解(*^▽^*)</div>
+    </div>
+    <script>
+        function freeMem(){
+            num=Number(document.getElementById("free").value)
+            FreeBlock(num);
+        }
+    </script>
+    <script type="application/javascript">
+        $(document).ready(function () {
+            initList();
+        });
+    </script>
+</body>
+

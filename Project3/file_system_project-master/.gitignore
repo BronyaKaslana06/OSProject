@@ -1,0 +1,7 @@
+request.ppt
+.idea/
+dist/
+build/
+
+*.spec
+

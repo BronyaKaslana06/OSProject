@@ -1,0 +1,62 @@
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\bin\Release\FileManageSystem.exe.config
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\bin\Release\FileManageSystem.exe
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\bin\Release\FileManageSystem.pdb
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\bin\Release\MaterialDesignColors.dll
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\AttributeWindow.g.cs
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\EditWindow.g.cs
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\DetailWindow.g.cs
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\MainWindow.g.cs
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\FormatControl.g.cs
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\RenameControl.g.cs
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\App.g.cs
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\FileManageSystem_MarkupCompile.cache
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\FileManageSystem_MarkupCompile.lref
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\App.baml
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\AttributeWindow.baml
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\EditWindow.baml
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\DetailWindow.baml
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\MainWindow.baml
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\FormatControl.baml
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\RenameControl.baml
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\FileManageSystem.g.resources
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\FileManageSystem.Properties.Resources.resources
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\FileManageSystem.csproj.GenerateResource.Cache
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\FileManageSystem.exe
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\FileManageSystem.pdb
+C:\Users\Wzes\Desktop\操作系统\FileManageSystem\FileManageSystem\obj\Release\FileManageSystem.csprojResolveAssemblyReference.cache
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\bin\Release\FileManageSystem.exe.config
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\bin\Release\FileManageSystem.exe
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\bin\Release\FileManageSystem.pdb
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\bin\Release\MaterialDesignColors.dll
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\bin\Release\MaterialDesignThemes.Wpf.dll
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\bin\Release\MaterialDesignThemes.Wpf.pdb
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\bin\Release\MaterialDesignThemes.Wpf.xml
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\FileManageSystem.csproj.AssemblyReference.cache
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\AttributeWindow.g.cs
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\EditWindow.g.cs
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\DetailWindow.g.cs
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\MainWindow.g.cs
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\FormatControl.g.cs
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\RenameControl.g.cs
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\App.g.cs
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\FileManageSystem_MarkupCompile.cache
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\FileManageSystem_MarkupCompile.lref
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\App.baml
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\AttributeWindow.baml
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\EditWindow.baml
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\DetailWindow.baml
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\MainWindow.baml
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\FormatControl.baml
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\RenameControl.baml
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\FileManageSystem.g.resources
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\FileManageSystem.Properties.Resources.resources
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\FileManageSystem.csproj.GenerateResource.cache
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\FileManageSystem.csproj.CoreCompileInputs.cache
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\FileManageSystem.csproj.CopyComplete
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\FileManageSystem.exe
+E:\OSProject\Project3\FileManageSystem-master (1)\FileManageSystem-master\FileManageSystem\obj\Release\FileManageSystem.pdb
